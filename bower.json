@@ -1,0 +1,22 @@
+{
+  "name": "purescript-window",
+  "description": "A purescript wrapper for the window object",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Risto-Stevcev/purescript-window.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-console": "1.x",
+    "purescript-maybe": "1.x"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "1.x"
+  }
+}

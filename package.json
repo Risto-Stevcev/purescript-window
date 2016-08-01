@@ -1,0 +1,26 @@
+{
+  "name": "purescript-window",
+  "version": "0.1.0",
+  "description": "A purescript wrapper for the window object",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Risto-Stevcev/purescript-window.git"
+  },
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "purescript",
+    "window"
+  ],
+  "author": "Risto Stevcev",
+  "license": "MIT",
+  "devDependencies": {
+    "phantomjs-prebuilt": "^2.1.9"
+  }
+}
